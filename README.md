@@ -1,1 +1,1 @@
-# Anomaly-Detection-PyTorch-
+# Anomaly-Detection
