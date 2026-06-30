@@ -1,0 +1,44 @@
+# Virtual Environment
+pytorch_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Dataset folders
+data/
+datasets/
+
+# Logs
+logs/
+*.log
+runs/
+tensorboard_logs/
+
+# Training checkpoints
+checkpoints/
+results/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
